@@ -26,7 +26,7 @@ export default function aaya() {
             <Navbar />
             <Container style={{marginTop: "56px"}}>
                 <h1 style={{fontSize: "96px"}}>HBD AAYA!</h1>
-                <p className="text-center">Nih pizza~ <span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span></p>
+                <p className="text-center">Nih pizzanya untuk kamu ajah~ <span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span></p>
                 <CardColumns style={{paddingTop: "3rem", paddingBottom:"3rem"}}>
                     {pizzas.map( (pizza, idx) => (
                         <Card key={idx} style={{padding: "10px", marginTop: "2rem", marginBottom: "0"}}>
@@ -40,6 +40,12 @@ export default function aaya() {
                 - Litha </p>
 
                 <p>Hbd ayaa, best sabi ever<br/> - Azhar</p>
+
+                <p>Hepibesdee Aayaaaaaaaaaaaaaaaaa<br/>buru pulang dicariin<br/>- ican</p>
+
+                <p>Habede aaya, debest sabi. Sukses terus yaa di pacil, sehat selalu jugaa.. Semoga semester depan lancar dan enjoy :) aamiin<span role="img" aria-label="love">❤️</span><br/>- Fina</p>
+
+                <p>Selamat ulang tahun Aayaaaa. Terima kasih sudah menjadi Sahabat Bidang yang baik, mengayomi, enak diajak ngomong, dan pastinya selalu sayang sama Biro Media. Semoga apa yang Aaya cita-citakan di usia ini tercapai, dimudahkan urusannya, dilancarkan rezekinya, pokoknya yang terbaik dehh. Aamiin <span role="img" aria-label="love">🎊</span><span role="img" aria-label="love">🎂</span><br />- Danan</p>
             </Container>
             <Footer />
         </Styles>
