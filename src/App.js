@@ -9,7 +9,7 @@ import KanalInformasi from './pages/kanalInfo'
 
 function App() {  
   return (
-    <Router basename="/imaba">
+    <Router>
       <Switch>
         <Route path="/akademik"><InfoAkademik /></Route>
         <Route path="/kampus"><InfoKampus /></Route>
