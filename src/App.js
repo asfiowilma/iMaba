@@ -6,6 +6,7 @@ import InfoAkademik from './pages/infoAkademik'
 import InfoKampus from './pages/infoKampus'
 import InfoPacil from './pages/infoPacil'
 import KanalInformasi from './pages/kanalInfo'
+import Aaya from './pages/aaya'
 
 function App() {  
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/kampus"><InfoKampus /></Route>
         <Route path="/fasilkom"><InfoPacil /></Route>
         <Route path="/informasi"><KanalInformasi /></Route>
+        <Route path="/aaya"><Aaya /></Route>
         <Route path="/"><WelcomePage /></Route>
       </Switch>
     </Router>
