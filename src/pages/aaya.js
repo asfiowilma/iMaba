@@ -26,8 +26,8 @@ export default function aaya() {
             <Navbar />
             <Container style={{marginTop: "56px"}}>
                 <h1 style={{fontSize: "96px"}}>HBD AAYA!</h1>
-                <p className="text-center">Nih pizzanya untuk kamu ajah~ <span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span></p>
-                <CardColumns style={{paddingTop: "3rem", paddingBottom:"3rem"}}>
+                <p style={{marginBottom:"11px"}}>Nih pizzanya untuk kamu ajah semuanya~ <span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span><span role="img" aria-label="love">&#128151;</span></p>
+                <CardColumns style={{paddingTop: "1rem", paddingBottom:"3rem"}}>
                     {pizzas.map( (pizza, idx) => (
                         <Card key={idx} style={{padding: "10px", marginTop: "2rem", marginBottom: "0"}}>
                             <Card.Img variant="top" src={pizza} alt="Card image" style={{borderRadius: "20px"}} />
@@ -36,7 +36,7 @@ export default function aaya() {
                 </CardColumns>
 
                 <p>Habede sabi kesayangan~ <span role="img" aria-label="love">&#128151;</span><br/>
-                semoga panjang umur, sehat selalu, n sukses terus yaaa<br/>
+                semoga panjang umur, sehat selalu, n sukses terus yaaahh<br/>khusus hari ini, kado spesialnya: iMaba~! EHEHEHE<br/>
                 - Litha </p>
 
                 <p>Hbd ayaa, best sabi ever<br/> - Azhar</p>
@@ -54,6 +54,10 @@ export default function aaya() {
                 <p>HABEDE AAYAA <span role="img" aria-label="love">🎉</span><span role="img" aria-label="love">🎂</span> Semoga panjang umur dan sehat selaluu. Semoga lancar kuliah di pacilnya dan bisa lulus tepat waktu dengan nilai yang memuaskann<span role="img" aria-label="love">❤️</span> <br/>-lita</p>
 
                 <p>HAPPY BIRTHDAY AAYA!!! thank you banget udah jadi HRDnya media selama ini heheheh :)) semoga sehat selalu dan cita2nya tercapai ya WKKWKW. semangat trus, tp jangan lupa main!!! love youuuu<br/>-anski</p>
+
+                <p>Selamat ulang tahun aayaaa, semoga sehat dan sukses terus aamiin. Makasih ayaaa udah mau jadi sabi kita baik banget:3 Semoga makin lancar nyabiinnya!!<br/>- Icul</p>
+
+                <p>Habede aaya lov lov<br/>- vane ( belom bisa direach hari ini:(( )</p>
             </Container>
             <Footer />
         </Styles>
