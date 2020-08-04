@@ -45,7 +45,15 @@ export default function aaya() {
 
                 <p>Habede aaya, debest sabi. Sukses terus yaa di pacil, sehat selalu jugaa.. Semoga semester depan lancar dan enjoy :) aamiin<span role="img" aria-label="love">❤️</span><br/>- Fina</p>
 
-                <p>Selamat ulang tahun Aayaaaa. Terima kasih sudah menjadi Sahabat Bidang yang baik, mengayomi, enak diajak ngomong, dan pastinya selalu sayang sama Biro Media. Semoga apa yang Aaya cita-citakan di usia ini tercapai, dimudahkan urusannya, dilancarkan rezekinya, pokoknya yang terbaik dehh. Aamiin <span role="img" aria-label="love">🎊</span><span role="img" aria-label="love">🎂</span><br />- Danan</p>
+                <p>Selamat ulang tahun Aayaaaa. Terima kasih sudah menjadi Sahabat Biro yang baik, mengayomi, enak diajak ngomong, dan pastinya selalu sayang sama Biro Media. Semoga apa yang Aaya cita-citakan di usia ini tercapai, dimudahkan urusannya, dilancarkan rezekinya, pokoknya yang terbaik dehh. Aamiin <span role="img" aria-label="love">🎊</span><span role="img" aria-label="love">🎂</span><br />- Danan</p>
+    
+                <p>HBD Aaya, makasih udh jadi sabi yg baik buat media, sehat2 terus ya dan semoga lancar kuliahnya<br/>-Novi</p>
+
+                <p>Happy birday Aaya!! Kepala 2 kan ya? Aseek HAHA semoga sukses di pacil yaak semoga lancar segala galanya aamiin Allah bless u!!! <span role="img" aria-label="love">✨</span><span role="img" aria-label="love">🎉</span><span role="img" aria-label="love">🎊</span><span role="img" aria-label="love">🎈</span><br/> -mamz</p>
+
+                <p>HABEDE AAYAA <span role="img" aria-label="love">🎉</span><span role="img" aria-label="love">🎂</span> Semoga panjang umur dan sehat selaluu. Semoga lancar kuliah di pacilnya dan bisa lulus tepat waktu dengan nilai yang memuaskann<span role="img" aria-label="love">❤️</span> <br/>-lita</p>
+
+                <p>HAPPY BIRTHDAY AAYA!!! thank you banget udah jadi HRDnya media selama ini heheheh :)) semoga sehat selalu dan cita2nya tercapai ya WKKWKW. semangat trus, tp jangan lupa main!!! love youuuu<br/>-anski</p>
             </Container>
             <Footer />
         </Styles>
