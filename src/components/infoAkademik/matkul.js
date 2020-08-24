@@ -102,11 +102,15 @@ export default class matkul extends Component {
     }
 
     displayTerm = () => {
-        const { term1, term2 } = data
+        const { term1 } = data
         if (this.state.term === 1) {
             return this.displayCarousel(term1)
         } else {
-            return this.displayCarousel(term2)
+            return (
+                <Card className="subcard d-flex justify-content-center text-center comingsoon">
+                    <div>Information coming soon!</div>
+                </Card>
+            )
         }
     }
 
